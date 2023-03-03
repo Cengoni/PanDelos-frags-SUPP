@@ -1,0 +1,1 @@
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/019/930/665/GCF_019930665.1_ASM1993066v1/GCF_019930665.1_ASM1993066v1_genomic.fna.gz
